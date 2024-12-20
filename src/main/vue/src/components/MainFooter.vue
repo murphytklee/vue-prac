@@ -1,6 +1,6 @@
 <template>
   <footer class="main-footer">
-    <p>Main Footer © 2024</p>
+    <p class="footer">Main Footer © 2024</p>
   </footer>
 </template>
 

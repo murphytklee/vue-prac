@@ -1,6 +1,6 @@
 <template>
   <header class="main-header">
-    <h1>Main Header</h1>
+    <h1>vue-practice</h1>
   </header>
 </template>
 
