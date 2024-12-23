@@ -167,7 +167,7 @@
 
 <script>
 export default {
-  name: "chapter_1_template",
+  name: "chapter_1",
   data() {
     return {
       msg: "this is message",
@@ -228,21 +228,6 @@ function onSubmit() {
 </script>
 
 <style>
-article {
-  text-align: left;
-  margin: 0 2em 6em 2em;
-}
-
-.article-header {
-  padding: 0.5em;
-  background-color: rgb(224, 222, 219);
-}
-
-.article-content {
-  margin-top: 2em;
-}
-
-/* custom */
 #customId {
   color: red;
 }
